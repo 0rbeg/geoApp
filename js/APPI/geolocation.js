@@ -1,5 +1,6 @@
 var geo = {
     getPosition: function(){
+        alert("uno");
         navigator.geolocation.getCurrentPosition(geo.succeess, geo.error);
     },
     success: function(pos){

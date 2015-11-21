@@ -1,5 +1,6 @@
 var fn = {
         ready: function(){
+            alert("cero");
           document.addEventListener("deviceready",geo.getPosition,false);  
         },
         init: function () {
