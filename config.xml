@@ -21,7 +21,7 @@
         </author>
         
         <icon src="img/icon.png" />
-        <!Plugings !>
+        <!--Plugings-->
         <gap:plugin name="org.apache.cordova.geolocation" /> 
         
 </widget>
