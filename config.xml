@@ -10,7 +10,7 @@
 
         <preference name="geoAPP-version" value="3.7.0" />
 
-        <name>HotelApp</name>
+        <name>geoApp</name>
 
         <description>
             Aplicación de prueba de la geolocalizacion. 
