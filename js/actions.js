@@ -1,6 +1,6 @@
 var fn = {
         ready: function(){
-          document.addEventListener("deviceready",geo.getPosition(),false);  
+          document.addEventListener("deviceready",geo.getPosition,false);  
         },
         init: function () {
                    //fn.drawMap(19.0538128,-98.2223255);
